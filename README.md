@@ -1,4 +1,4 @@
-# extract-method-experiments
+# extract-method-experiments (needs to be updated)
 
 The repository contains the tools and scripts used in [AntiCopyPaster project](https://github.com/JetBrains-Research/anti-copy-paster) to recommend extract method refactoring.
 
